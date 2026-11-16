@@ -255,11 +255,113 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- 17. PETIKAN KATA BIJAK PARA SHINOBI LEGENDA                                -->
+  <!-- 17. PETIKAN PRINSIP SHINOBI MODERN (SUPREME COMMANDER DECREE)             -->
   <!-- ========================================================================== -->
-  <h3 style="color: #FFB800; letter-spacing: 2px;">📜 言葉 • Shinobi Legends Hall of Wisdom</h3>
+  <h3 style="color: #FFB800; letter-spacing: 2px;">📜 忍道 • Supreme Commander Shinobi Way</h3>
 
   <table align="center" width="94%" border="0">
     <tr>
-      <td bgcolor="#07080b" style="border-left: 4px solid #FFB800; border-radius: 8px; padding: 14px 18px; color: #e6edf3;">
-        <i>"Wake up to reality! Nothing ever goes as planned in this accursed world. The longer you live, the more you realize
+      <td bgcolor="#07080b" style="border-left: 4px solid #FFB800; border-radius: 8px; padding: 18px 22px; color: #e6edf3; line-height: 1.8;">
+        <i>"Sistem yang kita rancang bukan sekadar barisan logika tanpa jiwa. Ini adalah wujud dari disiplin, tekad, dan arsitektur tanpa kompromi. Di medan perang teknologi masa kini, mereka yang menguasai fundamental dan berani mengeksekusi visi besarlah yang akan mendominasi panggung kemenangan."</i>
+        <br/><br/>
+        <b style="color: #FFB800;">— Adriel Gerald Lumban Tobing</b> <small style="color: #ff4757;">• Supreme Allied Forces Commander</small>
+      </td>
+    </tr>
+  </table>
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- 18. DAFTAR MISI PERTEMPURAN (PROJECT BATTLE ARCHIVES)                      -->
+  <!-- ========================================================================== -->
+  <h3 style="color: #FFB800; letter-spacing: 2px;">📂 任務 • Allied Forces Classified Operations (Projects)</h3>
+
+  <table align="center" width="94%" border="0" style="border-collapse: separate; border-spacing: 12px;">
+    <tr>
+      <td width="50%" bgcolor="#07080b" style="border: 1.5px solid rgba(255,184,0,0.6); border-radius: 12px; padding: 16px;">
+        <h4 style="color: #FFB800; margin: 0 0 8px 0;">⚡ Operation: Kurama Cloud Core</h4>
+        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
+          Sistem backend terdistribusi dengan toleransi kegagalan tingkat tinggi, didesain untuk menangani beban jutaan request per detik tanpa jeda.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" bgcolor="#07080b" style="border: 1.5px solid rgba(255,30,39,0.6); border-radius: 12px; padding: 16px;">
+        <h4 style="color: #ff4757; margin: 0 0 8px 0;">👁️ Operation: Tsukuyomi UI Matrix</h4>
+        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
+          Antarmuka web interaktif generasi baru dengan animasi responsif 60 FPS, memadukan estetika visual tinggi dan efisiensi memori.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" bgcolor="#07080b" style="border: 1.5px solid rgba(255,184,0,0.6); border-radius: 12px; padding: 16px;">
+        <h4 style="color: #FFB800; margin: 0 0 8px 0;">🌀 Operation: Rasen Automation Bot</h4>
+        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
+          Bot otomasi cerdas yang bertugas memantau alur repositori kode, auto-testing unit, dan deployment instan ke server produksi.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" bgcolor="#07080b" style="border: 1.5px solid rgba(255,30,39,0.6); border-radius: 12px; padding: 16px;">
+        <h4 style="color: #ff4757; margin: 0 0 8px 0;">🛡️ Operation: Susanoo Shield API</h4>
+        <p style="color: #8b949e; font-size: 13px; line-height: 1.5;">
+          Gerbang keamanan otentikasi data dengan enkripsi ganda, rate-limiting anti-DDoS, dan manajemen sesi pengguna yang kedap retas.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- 19. SHINOBI RADAR: AKTIVITAS REPO TERBARU                                   -->
+  <!-- ========================================================================== -->
+  <h3 style="color: #FFB800; letter-spacing: 2px;">📡 偵察 • Shinobi Global Reconnaissance</h3>
+  
+  <p align="center">
+    <a href="https://github.com/AdrielGerald03?tab=repositories">
+      <img src="https://img.shields.io/badge/VIEW_ALL_SCROLLS-EXPLORE%20REPOSITORIES-ffb800?style=for-the-badge&logo=git&logoColor=black" />
+    </a>
+    <a href="https://github.com/AdrielGerald03?tab=followers">
+      <img src="https://img.shields.io/badge/ALLIED_SHINOBI-JOIN%20THE%20FORCE-ff1e27?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- 20. JARINGAN FREKUENSI TRANSMISI RESMI ALIANSI                             -->
+  <!-- ========================================================================== -->
+  <h3 style="color: #FFB800; letter-spacing: 2px;">📡 連絡 • Secure Allied Communication Channels</h3>
+  
+  <p align="center">
+    <a href="https://github.com/AdrielGerald03"><img src="https://img.shields.io/badge/GitHub_HQ-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Direct_Dispatch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Alliance_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Visual_Recon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://discord.com"><img src="https://img.shields.io/badge/Voice_Freq-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  </p>
+
+  <br/>
+
+  <!-- ========================================================================== -->
+  <!-- 21. FOOTER GELOMBANG AURA PENUTUP                                         -->
+  <!-- ========================================================================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,24&height=140&section=footer&animation=twinkling" width="100%" />
+
+</div>
