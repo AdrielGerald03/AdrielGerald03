@@ -1,14 +1,14 @@
 <div align="center">
 
   <!-- ========================================================================== -->
-  <!-- [01] GOD-TIER CELESTIAL HEADER: GLOWING CHAKRA WAVE                        -->
+  <!-- [01] SUPREME WAR HEADER: GELOMBANG AURA CHAKRA EMAS & MERAH SUSANOO        -->
   <!-- ========================================================================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,25&height=260&section=header&text=ADRIEL%20GERALD%20LUMBAN%20TOBING&fontSize=34&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%9A%A1%20SUPREME%20COMMANDER%20%E2%80%A2%20THE%20FOURTH%20GREAT%20SHINOBI%20WORLD%20WAR%20%E2%9A%A1&descFontSize=13&descAlignY=55&stroke=ffb800&strokeWidth=2" width="100%" />
 
   <br/>
 
   <!-- ========================================================================== -->
-  <!-- [02] DYNAMIC CYBERPUNK WAR DIRECTIVE (AUTO-TYPING)                         -->
+  <!-- [02] DYNAMIC BATTLEFIELD TERMINAL TRANSMISSION                              -->
   <!-- ========================================================================== -->
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -17,7 +17,7 @@
   </p>
 
   <!-- ========================================================================== -->
-  <!-- [03] ITACHI'S CROW RELIC & LIVE CHAKRA SOUNDWAVE                          -->
+  <!-- [03] GAGAK ITACHI FLYING & EQUALIZER DETAK SUARA                           -->
   <!-- ========================================================================== -->
   <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="130px" style="filter: drop-shadow(0 0 18px rgba(255, 184, 0, 0.9));" />
   <br/>
@@ -26,7 +26,22 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [04] GOD-TIER HUD STATUS PANEL (3-COLUMN MATRIX)                           -->
+  <!-- [04] PINTU GERBANG TORII SHINOBI ASCII MEGALIT                             -->
+  <!-- ========================================================================== -->
+  <pre style="color: #FFB800; font-weight: bold; font-family: monospace; line-height: 1.2; font-size: 11px;">
+       ⛩️ ════════════════════════════════════════════════════════════════════════════ ⛩️
+             ___                                                              ___
+           /     \       ╔══════════════════════════════════════╗           /     \
+          | () () |      ║   ADRIEL GERALD LUMBAN TOBING        ║          | () () |
+           \  _  /       ║   SUPREME ALLIED SHINOBI ARCHITECT   ║           \  _  /
+            |===|        ╚══════════════════════════════════════╝            |===|
+       ⛩️ ════════════════════════════════════════════════════════════════════════════ ⛩️
+  </pre>
+
+  <br/>
+
+  <!-- ========================================================================== -->
+  <!-- [05] HUD LIVE STATUS ALIANSI SHINOBI (GRID 3 KOLOM)                       -->
   <!-- ========================================================================== -->
   <table align="center" width="96%" border="0" style="background: rgba(8, 9, 13, 0.95); border: 2px solid #FFB800; border-radius: 16px; padding: 14px; box-shadow: 0 0 35px rgba(255, 184, 0, 0.35);">
     <tr align="center">
@@ -48,8 +63,50 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [05] SHINOBI REGISTRATION ID CARD (GLASSMORPHISM STYLE)                   -->
+  <!-- [06] TERMINAL DIREKTIF RESMI MARKAS BESAR                                 -->
   <!-- ========================================================================== -->
+  <table align="center" width="96%" border="0">
+    <tr>
+      <td bgcolor="#07080b" align="center" style="border: 2px solid #FFB800; border-radius: 16px; padding: 22px; box-shadow: 0 0 35px rgba(255, 184, 0, 0.4);">
+        <p align="left" style="margin: 0 0 10px 10px;">
+          <span style="color:#ff5f56;">🔴</span> 
+          <span style="color:#ffbd2e;">🟡</span> 
+          <span style="color:#27c93f;">🟢</span> 
+          <b style="color:#FFB800; margin-left: 10px; letter-spacing: 1.5px;">⛩️ 忍界総本部 • Supreme Commander Directive Matrix</b>
+        </p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=1200&color=FFB800&multiline=true&width=700&height=160&lines=%7B;++%22commander_name%22%3A+%22Adriel+Gerald+Lumban+Tobing%22%2C;++%22rank%22%3A+%22Supreme+Allied+Forces+Commander+%E2%80%A2+Kage+Level%22%2C;++%22core_speciality%22%3A+%5B%22High-Scale+Architecture%22%2C+%22Clean+Code%22%2C+%22Zero-Downtime%22%5D%2C;++%22mission_decree%22%3A+%22Transforming+lines+of+code+into+unbreakable+reality.%22;%7D" alt="Dynamic Terminal Typing" />
+      </td>
+    </tr>
+  </table>
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- [07] KLIP UTAMA: MADARA UCHIHA PERFECT SUSANOO AWAKENING                  -->
+  <!-- ========================================================================== -->
+  <img src="https://media.giphy.com/media/tO0xjbaINgio8/giphy.gif" width="96%" style="border-radius: 16px; border: 2.5px solid #FFB800; box-shadow: 0 0 45px rgba(255, 184, 0, 0.85), 0 0 80px rgba(255, 30, 39, 0.5);" />
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- [08] CHIBI SHINOBI CORPS ON MARCH                                         -->
+  <!-- ========================================================================== -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="75px" style="margin: 0 10px;" />
+    <img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="55px" style="margin: 0 10px;" />
+    <img src="https://media.giphy.com/media/8qXJTU5oXeQog/giphy.gif" width="70px" style="margin: 0 10px;" />
+    <img src="https://media.giphy.com/media/MFiU5QGv0p3u8/giphy.gif" width="75px" style="margin: 0 10px;" />
+    <img src="https://media.giphy.com/media/10pge1Xy01iA0w/giphy.gif" width="65px" style="margin: 0 10px;" />
+  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" height="8px" style="opacity: 0.9; filter: hue-rotate(45deg);" />
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- [09] KARTU IDENTITAS RESMI SHINOBI (NINJA DOSSIER ID)                     -->
+  <!-- ========================================================================== -->
+  <h3 style="color: #FFB800; letter-spacing: 2px;">🎴 忍登録 • Allied Shinobi Registration ID Card</h3>
+  
   <table align="center" width="96%" border="0" style="background: linear-gradient(135deg, rgba(15,15,22,0.95), rgba(7,8,11,0.98)); border: 2px solid #FFB800; border-radius: 16px; padding: 22px; box-shadow: 0 0 45px rgba(255, 184, 0, 0.4);">
     <tr>
       <td width="28%" align="center" style="border-right: 1.5px solid rgba(255,184,0,0.4); padding-right: 20px;">
@@ -70,30 +127,9 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [06] KLIP UTAMA: MADARA UCHIHA PERFECT SUSANOO AWAKENING                  -->
+  <!-- [10] PARAMETER CHAKRA TEMPUR (COMBAT RADAR STATS)                         -->
   <!-- ========================================================================== -->
-  <img src="https://media.giphy.com/media/tO0xjbaINgio8/giphy.gif" width="96%" style="border-radius: 16px; border: 2.5px solid #FFB800; box-shadow: 0 0 45px rgba(255, 184, 0, 0.85), 0 0 80px rgba(255, 30, 39, 0.5);" />
-
-  <br/><br/>
-
-  <!-- ========================================================================== -->
-  <!-- [07] CHIBI SHINOBI CORPS ON MARCH                                         -->
-  <!-- ========================================================================== -->
-  <p align="center">
-    <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="75px" style="margin: 0 10px;" />
-    <img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="55px" style="margin: 0 10px;" />
-    <img src="https://media.giphy.com/media/8qXJTU5oXeQog/giphy.gif" width="70px" style="margin: 0 10px;" />
-    <img src="https://media.giphy.com/media/MFiU5QGv0p3u8/giphy.gif" width="75px" style="margin: 0 10px;" />
-    <img src="https://media.giphy.com/media/10pge1Xy01iA0w/giphy.gif" width="65px" style="margin: 0 10px;" />
-  </p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" height="8px" style="opacity: 0.9; filter: hue-rotate(45deg);" />
-
-  <br/><br/>
-
-  <!-- ========================================================================== -->
-  <!-- [08] COMBAT PARAMETER & CHAKRA METRICS                                     -->
-  <!-- ========================================================================== -->
-  <h3 style="color: #FFB800; letter-spacing: 2px;">📊 能力値 • Combat Radar & Chakra Metrics</h3>
+  <h3 style="color: #FFB800; letter-spacing: 2px;">📊 能力値 • Combat Radar & Skill Matrix</h3>
 
   <table align="center" width="96%" border="0" style="background: #07080b; border: 1.5px solid rgba(255,184,0,0.6); border-radius: 14px; padding: 18px; color: #c9d1d9;">
     <tr>
@@ -121,7 +157,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [09] 5 DIVISI TEMPUR PERANG ALIANSI (DROPDOWN BERKAS TAKTIS)              -->
+  <!-- [11] 5 DIVISI TEMPUR PERANG ALIANSI (DROPDOWN BERKAS TAKTIS)              -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">⚔️ 五部隊 • Allied Shinobi 5 Combat Divisions</h3>
   <p style="color: #8b949e; font-size: 13px;"><i>(Klik judul divisi di bawah untuk membuka berkas taktis pertempuran)</i></p>
@@ -134,7 +170,7 @@
             🥇 Divisi 1: Garda Depan Antarmuka (Frontend UI & Visual Realities)
           </summary>
           <p style="margin-top: 10px; padding-left: 15px; border-left: 3px solid #FFB800;">
-            <b>Tugas Pokok:</b> Merancang antarmuka visual yang responsif, mulus, interaktif, dan penuh estetika.<br/>
+            <b>Tugas Pokok:</b> Merancang visual yang responsif, mulus, interaktif, dan penuh estetika.<br/>
             <b>Senjata Utama:</b> React.js, Tailwind CSS, Next.js, HTML5/CSS3, JavaScript Modern (ES6+).
           </p>
         </details>
@@ -185,7 +221,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [10] MEDALI PRESTASI TEMPUR (BATTLE TROPHIES)                              -->
+  <!-- [12] MEDALI PRESTASI TEMPUR (BATTLE TROPHIES)                              -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">🏆 栄誉 • Shinobi Alliance Battle Medals</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=AdrielGerald03&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%" />
@@ -193,7 +229,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [11] ARSENAL WEAPONS (TECH STACK CARDS GRID UI)                            -->
+  <!-- [13] ARSENAL WEAPONS (TECH STACK CARDS GRID UI)                            -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">⚔️ 忍具 • Sacred Shinobi War Arsenal</h3>
 
@@ -223,14 +259,51 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [12] BENTURAN JUTSU: CHIDORI VS RASENGAN                                   -->
+  <!-- [14] MATRIKS ELEMEN 5 NEGARA BESAR SHINOBI                                -->
+  <!-- ========================================================================== -->
+  <h3 style="color: #FFB800; letter-spacing: 2px;">🌐 五大国 • Five Great Shinobi Elemental Affinities</h3>
+
+  <table align="center" width="96%" border="0" style="background: #07080b; border: 1.5px solid rgba(255,184,0,0.4); border-radius: 14px; padding: 16px; color: #ffffff;">
+    <tr align="center">
+      <td width="20%">
+        <b style="color: #ff4757;">🔥 KATON</b><br/>
+        <small style="color: #8b949e;">API Acceleration</small><br/>
+        <code>FastAPI • Express</code>
+      </td>
+      <td width="20%">
+        <b style="color: #00d2d3;">💧 SUITON</b><br/>
+        <small style="color: #8b949e;">Fluid State Stream</small><br/>
+        <code>Redux • Zustand</code>
+      </td>
+      <td width="20%">
+        <b style="color: #ffb800;">⚡ RAITON</b><br/>
+        <small style="color: #8b949e;">Instant Execution</small><br/>
+        <code>Vite • Next.js</code>
+      </td>
+      <td width="20%">
+        <b style="color: #10ac84;">🪨 DOTON</b><br/>
+        <small style="color: #8b949e;">Impenetrable Storage</small><br/>
+        <code>PostgreSQL • Redis</code>
+      </td>
+      <td width="20%">
+        <b style="color: #54a0ff;">🌪️ FUUTON</b><br/>
+        <small style="color: #8b949e;">Continuous Delivery</small><br/>
+        <code>CI/CD Pipelines</code>
+      </td>
+    </tr>
+  </table>
+
+  <br/><br/>
+
+  <!-- ========================================================================== -->
+  <!-- [15] BENTURAN JUTSU: CHIDORI VS RASENGAN                                   -->
   <!-- ========================================================================== -->
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="96%" height="85px" style="object-fit: cover; border-radius: 10px; border: 2px solid #FFB800; box-shadow: 0 0 28px rgba(255, 184, 0, 0.65);" />
 
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [13] ULAR KUCHIYOSE GITHUB CONTRIBUTION GRID                              -->
+  <!-- [16] ULAR KUCHIYOSE GITHUB CONTRIBUTION GRID                              -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">🐍 口寄せ • Kuchiyose no Jutsu: Contribution Grid</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="96%" />
@@ -238,7 +311,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [14] GRAFIK ALIRAN CHAKRA KOMIT REAL-TIME                                  -->
+  <!-- [17] GRAFIK ALIRAN CHAKRA KOMIT REAL-TIME                                  -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">📈 波動 • Allied Forces Chakra Stream (Activity Curve)</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrielGerald03&custom_title=ADRIEL%20WAR%20CHAKRA%20STREAM&theme=radical&point=FFB800&area=true&hide_border=true" width="96%" />
@@ -246,7 +319,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [15] TELEMETRI STATISTIK KINERJA TEMPUR                                   -->
+  <!-- [18] TELEMETRI STATISTIK KINERJA TEMPUR                                   -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">📊 戦績 • Frontline Performance Telemetry</h3>
   <p align="center">
@@ -258,7 +331,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [16] AUDIO STATION: BROADCAST MEDAN PERANG                                -->
+  <!-- [19] AUDIO STATION: BROADCAST MEDAN PERANG                                -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">🎧 音楽 • Battlefield Audio Station (War OST)</h3>
   
@@ -278,7 +351,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [17] PETIKAN PRINSIP SHINOBI MODERN                                        -->
+  <!-- [20] PETIKAN PRINSIP SHINOBI MODERN                                        -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">📜 忍道 • Supreme Commander Shinobi Way</h3>
 
@@ -295,7 +368,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [18] DAFTAR MISI PERTEMPURAN (PROJECT BATTLE ARCHIVES 2x2 GRID)            -->
+  <!-- [21] DAFTAR MISI PERTEMPURAN (PROJECT BATTLE ARCHIVES 2x2 GRID)            -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">📂 任務 • Allied Forces Classified Operations</h3>
 
@@ -352,7 +425,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [19] SHINOBI RECON DISPATCH BUTTONS                                        -->
+  <!-- [22] SHINOBI RECON DISPATCH BUTTONS                                        -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">📡 偵察 • Shinobi Global Reconnaissance</h3>
   
@@ -368,7 +441,7 @@
   <br/><br/>
 
   <!-- ========================================================================== -->
-  <!-- [20] TRANSMISI KOMUNIKASI RESMI                                            -->
+  <!-- [23] TRANSMISI KOMUNIKASI RESMI ALIANSI                                    -->
   <!-- ========================================================================== -->
   <h3 style="color: #FFB800; letter-spacing: 2px;">📡 連絡 • Secure Allied Communication Channels</h3>
   
@@ -383,7 +456,7 @@
   <br/>
 
   <!-- ========================================================================== -->
-  <!-- [21] FOOTER GELOMBANG AURA PENUTUP                                         -->
+  <!-- [24] FOOTER GELOMBANG AURA PENUTUP                                         -->
   <!-- ========================================================================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,24&height=140&section=footer&animation=twinkling" width="100%" />
 
